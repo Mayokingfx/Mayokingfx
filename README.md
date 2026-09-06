@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Gbenga Pedro Oguntade 👋</h1>
+<h1 align="center">Hi, I'm Gbenga Pedro  👋</h1>
 <h3 align="center">Data Analyst · AI & Automation · Energy · Research & Business Technology</h3>
 
 <p align="center">
-Turning raw data into decisions — and building AI-assisted tools that make the work easier.
+Turning raw data into decisions and building AI-assisted tools that make the work easier.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Turning raw data into decisions — and building AI-assisted tools that make the
 
 I'm a Business Administration graduate working at the intersection of **data, AI, and business strategy**. My focus is on transforming messy data into clear insights, automating repetitive workflows with AI-assisted tools, and applying that same analytical mindset to the **energy sector** and **Forex markets**.
 
-At **TradeGrid**, I've deepened my interest in how data and digital solutions can improve efficiency and decision-making across the energy value chain. Alongside that, several years of Forex trading have sharpened my ability to work with probability, risk, and pattern recognition under uncertainty — skills that translate directly into analytical work.
+At **TradeGrid**, I've deepened my interest in how data and digital solutions can improve efficiency and decision-making across the energy value chain. Alongside that, several years of Forex trading have sharpened my ability to work with probability, risk and pattern recognition under uncertainty,  skills that translate directly into analytical work.
 
 **Data tells the story. Technology helps us act on it.**
 
@@ -31,8 +31,8 @@ At **TradeGrid**, I've deepened my interest in how data and digital solutions ca
 | Project | Description | Tech |
 |---|---|---|
 | [Upcoming Project Name](https://github.com/Mayokingfx/repo-1) | Energy Market Commercial Dashboard | `Python` `Power BI` |
-| [Upcoming Project Name](https://github.com/Mayokingfx/repo-2) | FX Journal with risk metrics | `Python` `Pandas` |
-| [Upcoming Project Name](https://github.com/Mayokingfx/repo-3) | Automated reporting dashboard | `Excel` `Power Query` |
+| [Upcoming Project Name](https://github.com/Mayokingfx/repo-2) | FX Journal with Risk Metrics | `Python` `Pandas` |
+| [Upcoming Project Name](https://github.com/Mayokingfx/repo-3) | Automated Reporting Dashboard | `Excel` `Power Query` |
 
 > 📝 *[Station Dashboard](https://github.com/Mayokingfx/Station-performance-dashboard)*
 
