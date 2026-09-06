@@ -34,7 +34,7 @@ At **TradeGrid**, I've deepened my interest in how data and digital solutions ca
 | [Project Name](https://github.com/Mayokingfx/repo-2) | One-line description — e.g. FX backtesting tool with risk metrics | `Python` `Pandas` |
 | [Project Name](https://github.com/Mayokingfx/repo-3) | One-line description — e.g. automated reporting dashboard | `Excel` `Power Query` |
 
-> 📝 *Replace these rows with your pinned repos — link, one-line pitch, and stack. Recruiters and collaborators click these first.*
+> 📝 *[Station Dashboard](https://github.com/Mayokingfx/Station-performance-dashboard)*
 
 ---
 
