@@ -30,9 +30,9 @@ At **TradeGrid**, I've deepened my interest in how data and digital solutions ca
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project Name](https://github.com/Mayokingfx/repo-1) | One-line description of what it does and the problem it solves | `Python` `Power BI` |
-| [Project Name](https://github.com/Mayokingfx/repo-2) | One-line description — e.g. FX backtesting tool with risk metrics | `Python` `Pandas` |
-| [Project Name](https://github.com/Mayokingfx/repo-3) | One-line description — e.g. automated reporting dashboard | `Excel` `Power Query` |
+| [Upcoming Project Name](https://github.com/Mayokingfx/repo-1) | Energy Market Commercial Dashboard | `Python` `Power BI` |
+| [Upcoming Project Name](https://github.com/Mayokingfx/repo-2) | FX Journal with risk metrics | `Python` `Pandas` |
+| [Upcoming Project Name](https://github.com/Mayokingfx/repo-3) | Automated reporting dashboard | `Excel` `Power Query` |
 
 > 📝 *[Station Dashboard](https://github.com/Mayokingfx/Station-performance-dashboard)*
 
